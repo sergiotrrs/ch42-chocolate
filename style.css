@@ -1,0 +1,25 @@
+
+/* CSS type Selector */
+body {
+    background-color: black;
+    color:rgb(225, 220, 243);
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+button {
+    background-color: #005B41;
+    color: #BFA9E3;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* CSS type selector: pseudo class selector */
+button:hover {
+    background-color: #008EB4;
+}
+
+h1 {
+    color: #BFA9E3;
+}
